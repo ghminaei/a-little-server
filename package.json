@@ -1,0 +1,36 @@
+{
+  "name": "a-little-server",
+  "version": "1.0.0",
+  "description": "a little server with express",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "ghminaei",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "bcrypt": "^3.0.3",
+    "cors": "^2.8.5",
+    "ejs": "^2.5.6",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghminaei/a-little-server.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express"
+  ],
+  "bugs": {
+    "url": "https://github.com/ghminaei/a-little-server/issues"
+  },
+  "homepage": "https://github.com/ghminaei/a-little-server#readme"
+}
